@@ -1,6 +1,15 @@
 📚 **Python编程入门教程**
 
-**目标**: 用大约八周时间完成40道编程题，帮助新手入门Python编程世界 🐍.
+**目标**: 用大约八周时间完成40道编程题，帮助新手入门Python编程世界 🐍。
+
+本文档采用的学习视频：
+
+- https://www.bilibili.com/video/BV1wD4y1o7AS/?spm_id_from=333.337.search-card.all.click。
+
+推荐的辅导教材为：
+
+- 《python基础教程第3版》
+- 《python编程从入门到实践.equb》
 
 **教学大纲**:
 
